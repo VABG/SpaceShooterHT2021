@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Shot : MonoBehaviour
 {
-    [SerializeField] float speed = 24;
+    [SerializeField] float speed = 25;
     // Start is called before the first frame update
     void Start()
     {
